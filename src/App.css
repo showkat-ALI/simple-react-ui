@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  /* my changes */
+  display: flex;
 }
 
 .App-logo {
@@ -35,4 +37,10 @@
   to {
     transform: rotate(360deg);
   }
+}
+.student{
+  background-color: #61dafb;
+  color: coral;
+  border-radius: 20px;
+  font-size: 2rem;
 }
